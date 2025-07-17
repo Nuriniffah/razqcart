@@ -1,0 +1,11 @@
+ID,Item,Current Stock,Demand
+1,Milk,2 cartons,High
+2,Flour,5.65 kg,High
+3,Sugar,2 kg,Medium
+4,Cheese,8 kg,Low
+5,Bread,2.1 kg,Medium
+6,Egg,20,Medium
+7,Butter,500g,High
+8,Chocolate chip,2kg,Medium
+9,Vanilla,50ml,High
+10,Peanut butter,454g,Low
