@@ -57,7 +57,7 @@ if st.sidebar.button("Logout"):
 
 # --- NAVIGATION SETUP [WITHOUT SECTIONS] ---
 
-pg = st.navigation(pages=["pages/sales.py","pages/analytics.py", "pages/contact.py", "pages/inventory.py"])
+pg = st.navigation(pages=["pages/sales.py","pages/analytics.py","pages/inventory.py","pages/contact.py"])
 
 # # --- RUN NAVIGATION ---
 pg.run()
